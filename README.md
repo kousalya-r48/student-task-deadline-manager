@@ -1,27 +1,24 @@
 # Student Task & Deadline Manager
 
-A responsive task management web application built using HTML, CSS, and JavaScript.
+A simple web application to manage tasks and deadlines.
 
 ## Features
 
-* Add tasks with deadlines
-* Track days remaining
-* Mark tasks as complete
+* Add tasks
+* Set deadlines
+* Mark tasks as completed
 * Reschedule deadlines
 * Delete tasks
 * Search tasks
-* Progress tracking
 * Dark mode
-* Browser notifications
+* Progress tracking
 * Local storage support
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
-* Local Storage API
-* Browser Notification API
 
 ## Author
 
